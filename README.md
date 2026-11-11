@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" height="128" alt="VillagerReroll: Full Russian Localization icon"></p>
+
 <h1 align="center">VillagerReroll: Full Russian Localization</h1>
 
 <p align="center">
@@ -6,7 +8,9 @@
 </p>
 
 <p align="center">
-  <sub>Target: VillagerReroll v2.0 · License: MIT · Encoding: UTF-8</sub>
+  <a href="https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/actions/workflows/build.yml"><img src="https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+  <a href="https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/releases/latest"><img src="https://img.shields.io/github/v/release/milkycloud-dev/villagerreroll-full-russian-localization" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License: MIT"></a>
 </p>
 
 <p align="center">
@@ -26,12 +30,16 @@ It contains only configuration and text files to respect original author licensi
 
 ### Files
 
-- `README.md`: Documentation and instructions for using the localized trade item.
+- `README.md`: Documentation for the localized trade item.
 
 ### Installation
 
-1. Upstream VillagerReroll hardcodes trade items in bytecode.
-2. Use the pre-built `villager-reroll-2.0-RU.jar` in your server plugins folder.
+1. Download the pre-built `.jar` with bytecode-patched Russian trade item from [Releases](https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/releases/latest).
+2. Place it into your server `plugins/` folder.
+
+### Releases
+
+Pre-built ready-to-use binaries (`.jar` / `.zip`) are available for download in [Releases](https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/releases/latest).
 
 ### License
 
@@ -50,12 +58,16 @@ MIT License. Created by milkycloud-dev (2026).
 
 ### Файлы
 
-- `README.md`: Документация и инструкция по установке русифицированного предмета сделки.
+- `README.md`: Документация для русифицированного предмета сделки.
 
 ### Установка
 
-1. В оригинальном плагине текст сделок зашит в байткод.
-2. Поместите готовую сборку `villager-reroll-2.0-RU.jar` в папку `plugins` сервера.
+1. Скачайте готовую сборку `.jar` с русифицированным предметом обновления сделок из раздела [Releases](https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/releases/latest).
+2. Поместите файл в папку `plugins/` сервера.
+
+### Релизы
+
+Готовые собранные бинарные пакеты (`.jar` / `.zip`) доступны для загрузки в разделе [Releases](https://github.com/milkycloud-dev/villagerreroll-full-russian-localization/releases/latest).
 
 ### Лицензия
 
